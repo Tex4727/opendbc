@@ -1389,8 +1389,5 @@ FW_VERSIONS = {
       b'\xf1\x875Q0907572R \xf1\x890771',
       b'\xf1\x875Q0907572S \xf1\x890780',
     ],
-    (Ecu.fwdCamera, 0x74F, None): [
-      b'\xf1\x872Q0980653C \xf1\x891302',
-    ],
   },
 }
